@@ -5,6 +5,9 @@ package com.kodcu.user;
  */
 public class User {
 
+	public static void main(String[] args) {
+		System.out.println("=xxxxxxxxxxxxxxx");
+	}
     private String firstName;
     private String lastName;
     private String profession;
